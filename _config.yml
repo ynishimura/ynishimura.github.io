@@ -1,9 +1,9 @@
-title: John Smith
+title: ynishimura blog
 description: My Personal Blog
 author: ynishimura
 logo: /static/img/avatar.png
 github: https://github.com/
-about: Engineer Blog
+about: Infrastructure Engineer
 disqus_shortname: aboutashu
 # google_analytics: UA-72862926-1
 urls:
@@ -17,12 +17,12 @@ urls:
     - text: Projects
       url: /projects/
       icon: fa-desktop
-    - text: Resume
+    - text: Chart
       url: '#'
-      icon: fa-graduation-cap
-    - text: Github
-      url: https://github.com
-      icon: fa-github
+      icon: fa-bar-chart
+    - text: Diary
+      url: '#'
+      icon: fa-asterisk
     - text: XML Feed
       url: /feed.xml
       icon: fa-feed
@@ -30,7 +30,7 @@ urls:
 social:
     - icon: fa-facebook
       link: '#'
-    - icon: fa-skype
+    - icon: fa-github
       link: '#'
     - icon: fa-twitter
       link: '#'
