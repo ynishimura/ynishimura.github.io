@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-こんにちは		
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+こんにちは	。
 
-You can find the source code for the Jekyll theme at: [github.com/brijeshb42/bitwiser-material](https://github.com/brijeshb42/bitwiser-material)
+![img](/static/img/avatar.gif)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+何もわからない初心者で、
+いろいろと勉強したくて、ノリではじめてみました。
+
+
+このサイトは、[GitHub-Pages](https://pages.github.com/)という無料ホスティングサービスと、
+Markdown記法が使える静的サイトジェネレータの[Jekyll](http://jekyllrb.com/)を利用して構築されいてます。
