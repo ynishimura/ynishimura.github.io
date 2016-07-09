@@ -124,7 +124,11 @@
       {% endif %}
       {% if page.categories.size > 0 %}
     <span class="categories">
-        &raquo; {% for category in page.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+        <span class="fa fa-tags fa-flip-horizontal"></span>
+        {% for category in page.categories %}
+          <a href="/category/{{ category }}">
+          {{ category }}</a>{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
     </span>
     {% endif %}
       </p>
@@ -151,7 +155,7 @@
                 </footer>
                 <div align="center">
                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                  <!-- hcz-jekyll -->
+                  <!--jekyll -->
                   <ins class="adsbygoogle"
                        style="display:block"
                        data-ad-client="ca-pub-0776433630785969"

@@ -5,6 +5,7 @@ logo: /static/img/avatar.gif
 github: https://github.com/
 about: Infra Engineer Blog
 disqus_shortname: aboutashu
+encoding: utf-8 
 # google_analytics: UA-72862926-1
 urls:
     - text: Home
@@ -17,9 +18,9 @@ urls:
     - text: Projects
       url: /projects/
       icon: fa-desktop
-    - text: Chart
-      url: '#'
-      icon: fa-bar-chart
+    - text: Category
+      url: /category/
+      icon: fa-search
     - text: Diary
       url: '#'
       icon: fa-asterisk
