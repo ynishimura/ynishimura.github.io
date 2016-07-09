@@ -177,3 +177,6 @@ footer {
 span.time {
     padding-right:10px;
 }
+span.fa-red {
+    color: #ff0000;
+}
