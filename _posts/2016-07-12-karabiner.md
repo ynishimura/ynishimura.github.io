@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: post
+title: Karabinerを使ってvimのキーコンフィグに変更する
 date: 2016-07-11
 categories: mac
 ---
