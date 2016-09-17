@@ -32,3 +32,19 @@ Key Repeat（83ms）
 Delay Until Repeat（250ms）
 Key Repeat（53ms）
 ```
+
+### おまけ
+
+```
+・Shift押しながらのキー入力をやりやすくする設定
+
+スペースキーをshiftにする
+(スペースキーのみのときはスペースを入力)
+
+ Chage Space Key の中の
+ ↓
+ Space to Shift_L
+ (+ When you typw Space only. send Space)
+
+ にチェックを入れる
+```
